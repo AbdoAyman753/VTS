@@ -52,5 +52,8 @@ By addressing these aspects, a Vacation Tracking System can streamline the proce
 ## ERD:
 ![Screenshot 2024-05-05 181101](https://github.com/AbdoAyman753/VTS/assets/49798366/81863e88-7600-4c52-b1e3-ac69224f596a)
 
+## UseCases:
+- [Manage Time](https://github.com/AbdoAyman753/VTS/blob/main/ManageTime/README.md)
+
 
 
