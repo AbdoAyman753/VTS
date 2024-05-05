@@ -15,5 +15,7 @@
 6. If the employee withdraws the request, the VTS prompts for confirmation before withdrawing the request. If changes are made only to the information, the changes are accepted, and the screen returns to the main VTS home page. If there are errors or problems with the information changes, the VTS redisplays the editing page and highlights and explains all problems.
 
 ## Flowcharts:
+![editReqFlowchart](https://github.com/AbdoAyman753/VTS/assets/49798366/47a5bb77-ee9a-4aed-bf79-1c53a8c38399)
 
 ## Sequence Diagrams:
+![editReqEmpSeq](https://github.com/AbdoAyman753/VTS/assets/49798366/47007973-6682-49ec-94b9-aadaa152f1b2)
