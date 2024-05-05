@@ -14,5 +14,7 @@
 5. The employee is returned to the main VTS home page. The summaries are updated to reflect any changes made to the employee’s outstanding vacation time requests.
 
 ## Flowcharts:
+![cancelReqFlowchart](https://github.com/AbdoAyman753/VTS/assets/49798366/5ccca1f7-1f25-4382-b868-c6daa8c18f87)
 
 ## Sequence Diagrams:
+![cancelReqEmpSeq](https://github.com/AbdoAyman753/VTS/assets/49798366/e51a7a4d-89f8-468d-97a9-a4963796ba9f)
