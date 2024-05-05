@@ -1,6 +1,8 @@
 # Manage Time UseCase
 ## Actor: 
 - Employee
+- Manager
+- HR
 ## Goal: 
 - The employee wishes to submit a new request for vacation time.
 ## Preconditions: 
