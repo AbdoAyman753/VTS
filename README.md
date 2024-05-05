@@ -49,3 +49,8 @@ By addressing these aspects, a Vacation Tracking System can streamline the proce
 4. System Admin: A role responsible for the smooth running of the system’s technical resources (e.g., Web server, database) and for collecting and archiving all log files.
 
 
+## ERD:
+![Screenshot 2024-05-05 181101](https://github.com/AbdoAyman753/VTS/assets/49798366/81863e88-7600-4c52-b1e3-ac69224f596a)
+
+
+
