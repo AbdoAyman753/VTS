@@ -21,3 +21,9 @@ one of the categories of vacation time with a positive balance to use.
 12. The VTS home page lists the manager’s own vacation time requests and outstanding balances but also has a separate section listing requests pending approval by subordinate employees. The manager selects each of these one at a time to individually approve or deny.
 13. The VTS displays the details of the requested time and prompts the manager to approve or disapprove the request. If the request is disapproved, the manager is required to enter an explanation. Once the manager submits the result, the internal state of the request is changed to approved or rejected.
 14. Whether a request is approved or rejected, an e-mail notification is immediately sent to the employee who made the request. The manager’s screen returns to the main VTS home page, and the manager may approve other outstanding requests, make a request for him- or herself, or simply leave the VTS application.
+
+## Flowcharts:
+![CreateReq](https://github.com/AbdoAyman753/VTS/assets/49798366/cac98bec-5fb8-40c3-9546-42e14470d682)
+## Sequence Diagrams:
+![manageTimeEmpSeq](https://github.com/AbdoAyman753/VTS/assets/49798366/930f09cf-1586-4719-8777-7df63f456a11)
+![manageReqManagerSeq](https://github.com/AbdoAyman753/VTS/assets/49798366/862ae651-9e85-40dc-8f19-cc70dd41e31f)
