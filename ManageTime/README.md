@@ -1,7 +1,10 @@
 # Manage Time UseCase
-## Actor: Employee
-## Goal: The employee wishes to submit a new request for vacation time.
-## Preconditions: The employee is authenticated by the portal framework and identified as an employee of the company with privileges to manage his or her own vacation time.
+## Actor: 
+- Employee
+## Goal: 
+- The employee wishes to submit a new request for vacation time.
+## Preconditions: 
+- The employee is authenticated by the portal framework and identified as an employee of the company with privileges to manage his or her own vacation time.
 ## Main flow:
 1. The employee begins by selecting a link from the intranet portal to the VTS.
 2. The VTS uses the employee’s credentials to look up the current status of all the employee’s vacation time requests and outstanding balances. Information is displayed for the previous 6 months and up to 18 months in the future.
