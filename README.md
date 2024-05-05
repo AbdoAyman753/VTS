@@ -56,6 +56,7 @@ By addressing these aspects, a Vacation Tracking System can streamline the proce
 - [Manage Time](https://github.com/AbdoAyman753/VTS/blob/main/ManageTime/README.md)
 - [Withdraw Request](https://github.com/AbdoAyman753/VTS/tree/main/WithdrawRequest)
 - [Cancel approved Request](https://github.com/AbdoAyman753/VTS/tree/main/CancelRequest)
+- [Edit pending Request](https://github.com/AbdoAyman753/VTS/tree/main/EditRequest)
 
 
 
