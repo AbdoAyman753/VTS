@@ -15,5 +15,7 @@
 7. The system updates the request state to withdrawn.
 
 ## Flowcharts:
+![WithdrawFlowchart](https://github.com/AbdoAyman753/VTS/assets/49798366/8d9512f2-23c4-406e-bb04-d0f5af45671a)
 
 ## Sequence Diagrams:
+![withdrawEmpSeq](https://github.com/AbdoAyman753/VTS/assets/49798366/7bb78046-f000-4c9a-bcf2-883f12ac17ca)
