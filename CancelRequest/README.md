@@ -18,3 +18,5 @@
 
 ## Sequence Diagrams:
 ![cancelReqEmpSeq](https://github.com/AbdoAyman753/VTS/assets/49798366/e51a7a4d-89f8-468d-97a9-a4963796ba9f)
+## State Machine:
+![cancelStateMachine](https://github.com/AbdoAyman753/VTS/assets/49798366/d82d7765-2660-4b1d-9d52-f96364a29da6)
