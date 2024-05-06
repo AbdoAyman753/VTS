@@ -19,3 +19,5 @@
 
 ## Sequence Diagrams:
 ![editReqEmpSeq](https://github.com/AbdoAyman753/VTS/assets/49798366/47007973-6682-49ec-94b9-aadaa152f1b2)
+## State Machine:
+![editStateMachine](https://github.com/AbdoAyman753/VTS/assets/49798366/d36251c8-cf69-49d6-9d05-47d0a50d3758)
