@@ -20,3 +20,21 @@
 ![cancelReqEmpSeq](https://github.com/AbdoAyman753/VTS/assets/49798366/e51a7a4d-89f8-468d-97a9-a4963796ba9f)
 ## State Machine:
 ![cancelStateMachine](https://github.com/AbdoAyman753/VTS/assets/49798366/d82d7765-2660-4b1d-9d52-f96364a29da6)
+## Psuedo code:
+```
+signInToPortal();
+redirectToVTS();
+getApprovedRequests();
+approved = cancelApprovedReq(req_id);
+if(approved)
+  returnEmpAllowance();
+notify();
+
+cancelApprovedReq(req_id){
+  validateCanelation(req_id);
+}
+validateCanelation(req_id){
+  if(req > 5 working days in past || req in future)
+    return valid
+}
+```
