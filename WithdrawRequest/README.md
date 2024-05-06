@@ -21,3 +21,17 @@
 ![withdrawEmpSeq](https://github.com/AbdoAyman753/VTS/assets/49798366/7bb78046-f000-4c9a-bcf2-883f12ac17ca)
  ## State Machine:
  ![withdrawStateMachine](https://github.com/AbdoAyman753/VTS/assets/49798366/f20f59ef-1744-43f0-857e-a96773ef87d0)
+ ## Psuedo code:
+```
+signInToPortal();
+redirectToVTS();
+getPendingRequests();
+confirmed = withdrawReq(req_id);
+if(confirmed)
+  removeFromPool();
+notify();
+
+withdrawReqReq(req_id){
+  confirmWithdrawing(req_id);
+}
+```
