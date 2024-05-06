@@ -31,4 +31,26 @@ one of the categories of vacation time with a positive balance to use.
 ![manageReqManagerSeq](https://github.com/AbdoAyman753/VTS/assets/49798366/862ae651-9e85-40dc-8f19-cc70dd41e31f)
 ## State Machine:
 ![manageTimeStateMachine](https://github.com/AbdoAyman753/VTS/assets/49798366/80a8f540-d3a7-40c0-935b-ea3f7bcd58ad)
+## Psuedo Code:
+```
+signInToPortal();
+redirectToVTS();
+createNewVacationReq();
+saveToDB();
+
+
+redirectToVTS(){
+  sendSessionToken();
+  sendEmpCredentials();
+}
+createNewVacationReq(){
+  readData();
+  validateData();
+}
+validateData(){
+  if(date > 6 months in past && data  < 18 months in future)
+    return true;
+}
+
+```
 
