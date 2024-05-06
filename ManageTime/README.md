@@ -29,3 +29,6 @@ one of the categories of vacation time with a positive balance to use.
 ## Sequence Diagrams:
 ![manageTimeEmpSeq](https://github.com/AbdoAyman753/VTS/assets/49798366/930f09cf-1586-4719-8777-7df63f456a11)
 ![manageReqManagerSeq](https://github.com/AbdoAyman753/VTS/assets/49798366/862ae651-9e85-40dc-8f19-cc70dd41e31f)
+## State Machine:
+![manageTimeStateMachine](https://github.com/AbdoAyman753/VTS/assets/49798366/80a8f540-d3a7-40c0-935b-ea3f7bcd58ad)
+
